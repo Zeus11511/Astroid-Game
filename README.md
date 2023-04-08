@@ -26,5 +26,5 @@ Use the space bar to shoot bullets
 Troubleshooting:
 
 If you experience any issues with the game, try updating your graphics drivers and restarting your computer.
-If you continue to experience issues, please contact the game developers for assistance.
+If you continue to experience issues, please contact the game developer for assistance.
 Thank you for playing Astroids. We hope you enjoy the game!
